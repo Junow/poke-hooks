@@ -1,12 +1,17 @@
 {
   "name": "poke-hooks",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "get pokemon api with react hooks",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "author": {
     "name": "junow",
-    "email": "taristmas@gmail.com"
+    "email": "taristmas@gmail.com",
+    "url": "https://github.com/junow"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Junow/poke-hooks"
   },
   "license": "MIT",
   "scripts": {
