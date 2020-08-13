@@ -1,6 +1,6 @@
 {
   "name": "poke-hooks",
-  "version": "0.5.3",
+  "version": "0.5.41",
   "description": "get pokemon api with react hooks",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -14,7 +14,9 @@
     "url": "https://github.com/Junow/poke-hooks"
   },
   "license": "MIT",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "scripts": {
     "build": "tsc",
     "publish": "npm publish --access public"
