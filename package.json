@@ -1,6 +1,6 @@
 {
   "name": "poke-hooks",
-  "version": "0.5.41",
+  "version": "0.5.42",
   "description": "get pokemon api with react hooks",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
