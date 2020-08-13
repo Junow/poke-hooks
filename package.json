@@ -13,6 +13,13 @@
     "type": "git",
     "url": "https://github.com/Junow/poke-hooks"
   },
+  "keywords": [
+    "react",
+    "hook",
+    "pokemon",
+    "typescript"
+  ],
+  "homepage": "https://github.com/Junow/poke-hooks/#readme",
   "license": "MIT",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
